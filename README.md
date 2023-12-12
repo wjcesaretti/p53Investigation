@@ -1,4 +1,4 @@
-Investigating p53 and DNA Damage by William Cesaretti, Indiana University Bloomington (12/12/23)
+###Investigating p53 and DNA Damage by William Cesaretti, Indiana University Bloomington (12/12/23)
 
 This research explores the intricate dynamics between p53, a tumor suppressor protein, and DNA damage. P53 is central to cellular responses to DNA insults, dictating outcomes like DNA repair, cell cycle arrest, apoptosis, and senescence. The study delves into how various extents of DNA damage influence p53-mediated reactions and how the rate of p53 production/degradation affects genomic integrity.
 
