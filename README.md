@@ -1,4 +1,6 @@
-# An investigation of p53 and DNA damage by William Cesaretti, Indiana University Bloomington (12/12/23)
+# An investigation of p53 and DNA damage by William Cesaretti
+### Indiana University Bloomington 
+### 12/12/23
 
 ## Abstract 
 (Thanks to Elmar Bucher for format)
