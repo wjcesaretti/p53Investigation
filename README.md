@@ -1,4 +1,4 @@
-# Investigating p53 and DNA Damage by William Cesaretti, Indiana University Bloomington (12/12/23)
+# An investigation of p53 and DNA damage by William Cesaretti, Indiana University Bloomington (12/12/23)
 
 ## Abstract 
 (Thanks to Elmar Bucher for format)
@@ -20,22 +20,22 @@
 1. In a web browser open:
    [https://github.com/wjcesaretti/p53Investigation/blob/main/finalProject1.ipynb](https://github.com/wjcesaretti/p53Investigation/blob/main/finalProject1.ipynb)
 1. Click the: `Open in Colab` link.
-1. Run the first code cell to install `libncurses5` C and `tellurium` python3 library.
-1. Once the first cell is run, it will crash with the message: `Your session crashed for an unknown reason.`
+1. Once you get to the first code cell, run it to install `libncurses5` C and `tellurium` python3 library.
+1. Once the cell is run, it will crash with the message: `Your session crashed for an unknown reason.`
 1. No worries! All fine. Now you can continue to run the other cells as usual.
 
 ## Run locally
 1. It is assumed python3 and all library dependencies are installed and running.
 1. Clone the notebook locally: `git clone https://github.com/wjcesaretti/p53Investigation.git`
 1. Open the notebook: `jupyter lab finalproject1.ipynb`
-1. Skip the first cell! `libncurses5` and `tellurium` should already be installed.
+1. Skip the installing packages cell! `libncurses5` and `tellurium` should already be installed.
 1. From the second code cells onwards, run the notebook as usual.
 
 ## Cite
 ```bibtex
-@Misc{bucher2023,
+@Misc{cesaretti2023,
   author    = {Cesaretti, William},
-  title     = {elmbeech/grn_myeloid_progenitor: python3 tellurium myeloid progenitor cells differentiation gene regulatory network implementation and analysis.},
+  title     = {wjcesaretti/An investigation of p53 and DNA damage},
   year      = {2023},
   copyright = {Open Access},
   doi       = {10.5281/ZENODO.10343911},
