@@ -6,12 +6,12 @@
 ## Details 
 (Thanks to Elmar Bucher for format)
 + Language: python3 [>= 3.8](https://devguide.python.org/versions/)
-+ Library dependencies: [tellurium](https://tellurium.readthedocs.io/en/latest/),[ipywidgets](https://ipywidgets.readthedocs.io/en/stable/), [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/)
++ Library dependencies: [tellurium](https://tellurium.readthedocs.io/en/latest/), [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/),  [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/)
 + License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 + Date: December 2023
 + Author: William Cesaretti
 + Contact: wjcesaretti@gmail.com
-+[![DOI](https://zenodo.org/badge/730505367.svg)](https://zenodo.org/doi/10.5281/zenodo.10371428)
++ [![DOI](https://zenodo.org/badge/730505367.svg)](https://zenodo.org/doi/10.5281/zenodo.10371428)
 + User manual: this README.md file
 + Description: python3 tellurium implementation and analysis from
   [Zhang et al.'s 2007 published](https://pubmed.ncbi.nlm.nih.gov/17245126/) Exploring mechanisms of the DNA-damage response: p53 pulses and their possible relevance to apoptosis
