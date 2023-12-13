@@ -8,7 +8,7 @@
 + Date: December 2023
 + Author: William Cesaretti
 + Contact: wjcesaretti@gmail.com
-+ [![DOI](https://zenodo.org/badge/728492800.svg)](https://zenodo.org/doi/10.5281/zenodo.10343911)
++ [![DOI](https://zenodo.org/badge/730505367.svg)](https://zenodo.org/doi/10.5281/zenodo.10371428)
 + User manual: this README.md file
 + Description:
   python3 tellurium implementation and analysis from
