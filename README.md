@@ -1,6 +1,7 @@
 # Investigating p53 and DNA Damage by William Cesaretti, Indiana University Bloomington (12/12/23)
 
-## Abstract (Thanks to Elmar Bucher for format)
+## Abstract 
+(Thanks to Elmar Bucher for format)
 + Language: python3 [>= 3.8](https://devguide.python.org/versions/)
 + Library dependencies: ipywidgets, matplotlib, numpy, pandas, tellurium.
 + License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
