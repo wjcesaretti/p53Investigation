@@ -18,7 +18,7 @@
 
 ## Run on google colab
 1. In a web browser open:
-   https://github.com/elmbeech/grn_myeloid_progenitor/blob/main/engr_e542_fall2023_sysbio_network_project_sim.ipynb
+   [https://github.com/wjcesaretti/p53Investigation/blob/main/finalProject1.ipynb](https://github.com/wjcesaretti/p53Investigation/blob/main/finalProject1.ipynb)
 1. Click the: `Open in Colab` link.
 1. Run the first code cell to install `libncurses5` C and `tellurium` python3 library.
 1. Once the first cell is run, it will crash with the message: `Your session crashed for an unknown reason.`
