@@ -21,20 +21,20 @@
    https://github.com/elmbeech/grn_myeloid_progenitor/blob/main/engr_e542_fall2023_sysbio_network_project_sim.ipynb
 1. Click the: `Open in Colab` link.
 1. Run the first code cell to install `libncurses5` C and `tellurium` python3 library.
-1. Once the first cell is run, it will crash with the message: `Your session crashed for an unknowenreason.`
+1. Once the first cell is run, it will crash with the message: `Your session crashed for an unknown reason.`
 1. No worries! All fine. Now you can continue to run the other cells as usual.
 
 ## Run locally
 1. It is assumed python3 and all library dependencies are installed and running.
-1. Clone the notebook locally: `git clone https://github.com/elmbeech/grn_myeloid_progenitor.git`
-1. Open the notebook: `jupyter lab engr_e542_fall2023_sysbio_network_project_sim.ipynb`
+1. Clone the notebook locally: `git clone https://github.com/wjcesaretti/p53Investigation.git`
+1. Open the notebook: `jupyter lab finalproject1.ipynb`
 1. Skip the first cell! `libncurses5` and `tellurium` should already be installed.
 1. From the second code cells onwards, run the notebook as usual.
 
 ## Cite
 ```bibtex
 @Misc{bucher2023,
-  author    = {Bucher, Elmar},
+  author    = {Cesaretti, William},
   title     = {elmbeech/grn_myeloid_progenitor: python3 tellurium myeloid progenitor cells differentiation gene regulatory network implementation and analysis.},
   year      = {2023},
   copyright = {Open Access},
