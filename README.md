@@ -1,9 +1,43 @@
 # Investigating p53 and DNA Damage by William Cesaretti, Indiana University Bloomington (12/12/23)
 
-This research explores the intricate dynamics between p53, a tumor suppressor protein, and DNA damage. P53 is central to cellular responses to DNA insults, dictating outcomes like DNA repair, cell cycle arrest, apoptosis, and senescence. The study delves into how various extents of DNA damage influence p53-mediated reactions and how the rate of p53 production/degradation affects genomic integrity.
+## Abstract (Thanks to Elmar Bucher for format)
++ Language: python3 [>= 3.8](https://devguide.python.org/versions/)
++ Library dependencies: ipywidgets, matplotlib, numpy, pandas, tellurium.
++ License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
++ Date: December 2023
++ Author: William Cesaretti
++ Contact: wjcesaretti@gmail.com
++ [![DOI](https://zenodo.org/badge/728492800.svg)](https://zenodo.org/doi/10.5281/zenodo.10343911)
++ User manual: this README.md file
++ Description:
+  python3 tellurium implementation and analysis from
+  [krumsiek et al.'s 2011 published](https://doi.org/10.1371/journal.pone.0022649)
+  myeloid progenitor cells differentiation gene regulatory network.
++ This notebook is my semester work for class [ENGR E542 Introduction to Computational Bioengineering](https://academics.iu.edu/courses/bloomington/engr-e-542-introduction-to-computational-bioengineering.html) by Prof. James Glazier.
 
-Significant focus is given to the relationship between p53 and MDM2, an inhibitor of p53, forming an autoregulatory feedback loop. Mutations in the TP53 gene, leading to dysfunctional p53, are prevalent in numerous cancers, emphasizing the importance of p53 in cancer biology.
+## Run on google colab
+1. In a web browser open:
+   https://github.com/elmbeech/grn_myeloid_progenitor/blob/main/engr_e542_fall2023_sysbio_network_project_sim.ipynb
+1. Click the: `Open in Colab` link.
+1. Run the first code cell to install `libncurses5` C and `tellurium` python3 library.
+1. Once the first cell is run, it will crash with the message: `Your session crashed for an unknowenreason.`
+1. No worries! All fine. Now you can continue to run the other cells as usual.
 
-The research employs a mathematical model to analyze the p53/MDM2/DNA damage system, considering different compartments (nucleus, cytoplasm) and factors like DNA repair rates and DNA damage levels. Interactive simulations and phase plots are used to visualize the system's behavior under varying conditions, revealing insights into the dynamic responses of biological systems to stress.
+## Run locally
+1. It is assumed python3 and all library dependencies are installed and running.
+1. Clone the notebook locally: `git clone https://github.com/elmbeech/grn_myeloid_progenitor.git`
+1. Open the notebook: `jupyter lab engr_e542_fall2023_sysbio_network_project_sim.ipynb`
+1. Skip the first cell! `libncurses5` and `tellurium` should already be installed.
+1. From the second code cells onwards, run the notebook as usual.
 
-This investigation enhances our understanding of p53 dynamics in DNA damage and repair, with broader implications for cancer research and therapeutic strategies.
+## Cite
+```bibtex
+@Misc{bucher2023,
+  author    = {Bucher, Elmar},
+  title     = {elmbeech/grn_myeloid_progenitor: python3 tellurium myeloid progenitor cells differentiation gene regulatory network implementation and analysis.},
+  year      = {2023},
+  copyright = {Open Access},
+  doi       = {10.5281/ZENODO.10343911},
+  publisher = {Zenodo},
+}
+```
